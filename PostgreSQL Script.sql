@@ -1,9 +1,5 @@
 -- ##########################################
 -- # Project: PAN Number Validation
--- # Author: [Your Name]
--- # Description: This script performs data cleaning, validation, 
--- #              and categorization of PAN numbers for Indian nationals.
--- #              Includes summary reporting.
 -- ##########################################
 
 -- ==========================================
