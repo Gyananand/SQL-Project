@@ -1,7 +1,5 @@
 # PAN Number Validation Project
 
----
-
 ## **Project Overview**
 
 This project focuses on **validating and categorizing Indian PAN numbers** from a dataset. The goal is to ensure **data quality** by identifying valid, invalid, and missing PAN records. It combines **data cleaning, preprocessing, and rule-based validation** using SQL, PL/pgSQL functions, and regular expressions.
